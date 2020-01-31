@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "lint": "ng lint",
-    "build-scully": "npm run build && npm run scully",
+    "netlify": "npm run build && npm run scully",
     "scully": "scully",
     "scully:serve": "scully serve"
   },
