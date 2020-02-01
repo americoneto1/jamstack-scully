@@ -1,10 +1,7 @@
 ---
 title: Sobre a comunidade
-description: Sobre a comunidade
-publish: false
 ---
-
-# O que fazemos
+# O que fazemos?
 
 AngularSP é a sua comunidade de **Angular e TypeScript em São Paulo / SP**!
 
